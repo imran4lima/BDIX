@@ -172,15 +172,13 @@ http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 http://208.86.19.21/730.stream/index.m3u8
 http://103.153.39.36:8000/play/a01s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" , Sony Max HD
-
+http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" , Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" , Zee Bollywood
-https://cutt.ly/ZeeBolly
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" , Star GolD HD
 http://208.86.19.21/717.stream/index.m3u8
 http://103.153.39.36:8000/play/a012
@@ -270,7 +268,7 @@ http://dream8k.pro/live/232323/232323/260994.m3u8
 #EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png" , A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" , Super Premier League
-http://cro.hockeynews.club/live/1/chunks.m3u8?
+http://cro.hockeynews.club/live/1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" , Super Sports 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" , Super Sports 2
@@ -497,31 +495,6 @@ http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zs6rjx0wjj0lki1/92.7.jpg?raw=1" , Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-
-_____________VOD_____________
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Ertugrul History" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="Ertugrul Coming Soon",Ertugrul History Bangla
-https://cdn1.wapka.io/005fd8/26f94131e5d9099742c4b2c745211164/2e01e17467891f7c933dbaa00e1459d23db3fe4f/facebook-undefinedsource_11_1.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Dirilis Ertugrul S01 E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="Dirilis Ertugrul (2014-2019)",Dirilis Ertugrul S01 E01
-http://cds2.discoveryftp.net/Dubbed%20Tv%20Series/Dirilis%20Ertugrul%20%282014-2019%29/Season%201/Dirili%C5%9F%20Ertu%C4%9Frul%20B%C3%B6l%C3%BCm.1%20Bangla%20Dubbing.mp4?
-#EXTINF:-1 tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg" group-title="2022 Dhammaka Movies", PushPa The Rise (2021)
-https://cutt.ly/Pushpa2022HD
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVlYWFhZWUtZTY0OC00MjFkLWEyMDctYzQ5MTJiMTkwZmY4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_FMjpg_UX1000_.jpg" group-title="2022 Dhammaka Movies", Kurup (2021)
-http://content.discoveryftp.net/Movies/Dubbed/Others/2021/Kurup/Kurup%202021%201080p%20WEB-DL%20Hindi%20DD5%201-Malayalam%20ESub%20x264-HDHub4u%20Tv.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY0MGIzYzktMGRlZC00ODEzLTlkMTMtZTJiZjc0ZjRhMDI0XkEyXkFqcGdeQXVyOTg0MTM1OTU@._V1_.jpg" group-title="2022 Dhammaka Movies", Antim The Final Truth (2021)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2021/Antim%20The%20Final%20Truth%20%282021%29%20Hindi%20%201080p%20WEB-DL/Antim.The.Final.Truth.2021.1080p.ZEE5.WEB-DL.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2YtMmU1MTRmMjVhMjRiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="2022 Dhammaka Movies", Jai Bhim (2021)
-https://cutt.ly/Jaibhim2021
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU1OTYzYzAtMDcyOS00MDI0LTg2ZmQtYTEyMDdmMmQ0MjY5XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpgpg" group-title="2022 Dhammaka Movies", MASTER (2021)
-https://cutt.ly/MasterTamil
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI2MDk2NGEtNDcwZC00NmU5LTk5NmMtODE1NDRlMDFmODU2XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg" group-title="2022 Dhammaka Movies", Atrangi Re (2021)
-https://cutt.ly/Artangire202
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , 1. BTV World
-http://103.106.2.149:13456/btv_world.m3u8
-
-
 
 
 
